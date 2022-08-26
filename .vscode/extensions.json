@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "endverbraucher.pack-frontend",
+        "idleberg.nsis-plugins",
+        "ms-python.pylint",
+        "corker.vscode-micromamba",
+        "donjayamanne.python-environment-manager",
+        "daenuprobst.hardcore-theme",
+        "mhutchie.git-graph",
+        "oracle-labs-graalvm.graalvm-pack",
+        "vinirossa.vscode-gitandgithub-pack"
+    ]
+}

@@ -20,4 +20,8 @@ string = 0.63100
 string = 00.63100
 string = 00.-6.3100
 while 'string' <0.1000
-break;/r
+break;x = ('scr', 'obj', 'uv')
+print(x_null)(""*) /r*scr = ['x', 'y', 'z', 'l']
+Scr = reversed(alph)
+for x in Scr*:
+  print(<x_ 6.3100:break/reverse.setdefault(r*scr))

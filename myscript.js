@@ -1,1 +1,0 @@
-System.out.print("OnEvent"); ("".find ) myscript.js (C:/Documents/MegaDownload/nodejs-thirdparty-/var_1/var_index/var_index/var_index/var_index/Content/Scripts/) " myscript.js "
